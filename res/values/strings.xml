@@ -4,5 +4,8 @@
     <string name="app_name">azaka</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="notify_on">Alerts are Enabled</string>
+    <string name="notify_off">Alerts are Disabled</string>
+    <string name="Manual">Manual</string>
 
 </resources>
